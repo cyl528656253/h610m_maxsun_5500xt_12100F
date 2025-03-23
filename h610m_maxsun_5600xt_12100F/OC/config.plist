@@ -1,11 +1,9 @@
-/Users/a37/Downloads/h610m_maxsun_5600xt_12100F.zip<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>#About</key>
-	<string>B站UP：乌龙蜜桃来一打</string>
-	<key>#Website</key>
-	<string>https://github.com/hackintosh-club/Maxsun-Challenger-H610ITX-OpenCore</string>
+	<string>铭瑄h610m挑战者  黑苹果 efi  oc版本1.0.3</string>
 	<key>ACPI</key>
 	<dict>
 		<key>Add</key>
@@ -13,7 +11,7 @@
 			<dict>
 				<key>Comment</key>
 				<string></string>
-				<key>Enabled</key>/Users/a37/Downloads/h610m_maxsun_5600xt_12100F.zip
+				<key>Enabled</key>
 				<true/>
 				<key>Path</key>
 				<string>SSDT-AWAC.aml</string>
